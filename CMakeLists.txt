@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(Proiect_POO_3 main.cpp
         business.h
         platacard.h
-        gestiune.h)
+        gestiune.h
+        main2.cpp)
